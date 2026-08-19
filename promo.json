@@ -1,23 +1,20 @@
 {
   "enabled": true,
-  "showEveryNVisits": 3,
-  "minVisitsBeforeFirstShow": 2,
   "promos": [
     {
       "id": "mygame1",
-      "title": "Try my new game!",
-      "imageUrl": "https://raw.githubusercontent.com/oxsisko30-hue/testapopo/refs/heads/main/bannerr.png",
-      "iconUrl": "https://raw.githubusercontent.com/oxsisko30-hue/testapopo/refs/heads/main/iconee.png",
-      "storeUrl": "https://play.google.com/store/apps/details?id=com.yourcompany.mygame1",
-      "buttonText": "PLAY NOW"
+      "tileImageUrl": "https://raw.githubusercontent.com/oxsisko30-hue/testapopo/refs/heads/main/tile1.jpg",
+      "storeUrl": "https://play.google.com/store/apps/details?id=com.yourcompany.mygame1"
     },
     {
       "id": "mygame2",
-      "title": "Spin and win big!",
-      "imageUrl": "https://raw.githubusercontent.com/oxsisko30-hue/testapopo/refs/heads/main/BANNER11.png",
-      "iconUrl": "https://raw.githubusercontent.com/oxsisko30-hue/testapopo/refs/heads/main/iconee1.png",
-      "storeUrl": "https://play.google.com/store/apps/details?id=com.yourcompany.mygame2",
-      "buttonText": "GET IT FREE"
+      "tileImageUrl": "https://raw.githubusercontent.com/oxsisko30-hue/testapopo/refs/heads/main/tile2.jpg",
+      "storeUrl": "https://play.google.com/store/apps/details?id=com.yourcompany.mygame2"
+    },
+    {
+      "id": "mygame3",
+      "tileImageUrl": "https://raw.githubusercontent.com/oxsisko30-hue/testapopo/refs/heads/main/tile3.jpg",
+      "storeUrl": "https://play.google.com/store/apps/details?id=com.yourcompany.mygame3"
     }
   ]
 }
