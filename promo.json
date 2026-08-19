@@ -3,17 +3,17 @@
   "promos": [
     {
       "id": "mygame1",
-      "tileImageUrl": "https://raw.githubusercontent.com/oxsisko30-hue/testapopo/refs/heads/main/ChatGPT%20Image%2019%20ao%C3%BBt%202026%2C%2008_53_21%20(1).png",
+      "tileImageUrl": "https://raw.githubusercontent.com/oxsisko30-hue/testapopo/refs/heads/main/1.jpgg",
       "storeUrl": "https://play.google.com/store/apps/details?id=com.yourcompany.mygame1"
     },
     {
       "id": "mygame2",
-      "tileImageUrl": "https://raw.githubusercontent.com/oxsisko30-hue/testapopo/refs/heads/main/promo_card_768x1024.jpg",
+      "tileImageUrl": "https://raw.githubusercontent.com/oxsisko30-hue/testapopo/refs/heads/main/2.png",
       "storeUrl": "https://play.google.com/store/apps/details?id=com.yourcompany.mygame2"
     },
     {
       "id": "mygame3",
-      "tileImageUrl": "https://raw.githubusercontent.com/oxsisko30-hue/testapopo/refs/heads/main/crossarion.png",
+      "tileImageUrl": "https://raw.githubusercontent.com/oxsisko30-hue/testapopo/refs/heads/main/3.png",
       "storeUrl": "https://play.google.com/store/apps/details?id=com.yourcompany.mygame3"
     }
   ]
