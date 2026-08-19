@@ -8,12 +8,12 @@
     },
     {
       "id": "mygame2",
-      "tileImageUrl": "https://raw.githubusercontent.com/oxsisko30-hue/testapopo/refs/heads/main/2.png",
+      "tileImageUrl": "https://raw.githubusercontent.com/oxsisko30-hue/testapopo/refs/heads/main/22.jpg",
       "storeUrl": "https://play.google.com/store/apps/details?id=com.yourcompany.mygame2"
     },
     {
       "id": "mygame3",
-      "tileImageUrl": "https://raw.githubusercontent.com/oxsisko30-hue/testapopo/refs/heads/main/3.png",
+      "tileImageUrl": "https://raw.githubusercontent.com/oxsisko30-hue/testapopo/refs/heads/main/33.jpg",
       "storeUrl": "https://play.google.com/store/apps/details?id=com.yourcompany.mygame3"
     }
   ]
