@@ -1,0 +1,23 @@
+{
+  "enabled": true,
+  "showEveryNVisits": 3,
+  "minVisitsBeforeFirstShow": 2,
+  "promos": [
+    {
+      "id": "mygame1",
+      "title": "Try my new game!",
+      "imageUrl": "https://raw.githubusercontent.com/YOUR-USERNAME/YOUR-REPO/main/mygame1_banner.jpg",
+      "iconUrl": "https://raw.githubusercontent.com/YOUR-USERNAME/YOUR-REPO/main/mygame1_icon.png",
+      "storeUrl": "https://play.google.com/store/apps/details?id=com.yourcompany.mygame1",
+      "buttonText": "PLAY NOW"
+    },
+    {
+      "id": "mygame2",
+      "title": "Spin and win big!",
+      "imageUrl": "https://raw.githubusercontent.com/YOUR-USERNAME/YOUR-REPO/main/mygame2_banner.jpg",
+      "iconUrl": "https://raw.githubusercontent.com/YOUR-USERNAME/YOUR-REPO/main/mygame2_icon.png",
+      "storeUrl": "https://play.google.com/store/apps/details?id=com.yourcompany.mygame2",
+      "buttonText": "GET IT FREE"
+    }
+  ]
+}
