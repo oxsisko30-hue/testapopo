@@ -6,8 +6,8 @@
     {
       "id": "mygame1",
       "title": "Try my new game!",
-      "imageUrl": "https://raw.githubusercontent.com/YOUR-USERNAME/YOUR-REPO/main/mygame1_banner.jpg",
-      "iconUrl": "https://raw.githubusercontent.com/YOUR-USERNAME/YOUR-REPO/main/mygame1_icon.png",
+      "imageUrl": "https://raw.githubusercontent.com/oxsisko30-hue/testapopo/refs/heads/main/bannerr.png",
+      "iconUrl": "https://raw.githubusercontent.com/oxsisko30-hue/testapopo/refs/heads/main/iconee.png",
       "storeUrl": "https://play.google.com/store/apps/details?id=com.yourcompany.mygame1",
       "buttonText": "PLAY NOW"
     },
